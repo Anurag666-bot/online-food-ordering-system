@@ -153,11 +153,11 @@ After logging in, you can browse the menu, add items to your cart, place orders,
 ## License
 
 This project is licensed under the [MIT License](LICENSE).  
-Please give appropriate credit by mentioning **ANurag** when using this code.
+Please give appropriate credit by mentioning **ANURAG** when using this code.
 
 ## Author
 
-- **[Asna Assalam](https://github.com/Anurag666-bot)**: Creator and developer of the Online Food Order System.
+- **[Anurag](https://github.com/Anurag666-bot)**: Creator and developer of the Online Food Order System.
  
 
 
